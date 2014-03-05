@@ -29,6 +29,17 @@
             <div class="row ofwhite">
                     <div class="col-md-6">
                         <h2>সর্বশেষ সংবাদ</h2>
+                        <div class="newsscroller scroll-text" id="newsscroller">
+                            <ul>
+                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed</a></li>
+                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed</a></li>
+                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed</a></li>
+                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed</a></li>
+                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed</a></li>
+                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed</a></li>
+                                <li><a href="#">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed</a></li>
+                            </ul>
+                        </div>
                     </div>
                     <div class="col-md-6">
                         <div class="right-align">
@@ -82,6 +93,8 @@
         
         <script src="js/jquery.js"></script>
         <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.scrollbox.js"></script>
+        <script src="js/script.js"></script>
     </body>
 </html>
 
