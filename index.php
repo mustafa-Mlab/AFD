@@ -9,6 +9,19 @@
     </head>
     <body>
         
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="img/pic 01.jpg" alt="" class="img-responsive hidden-xs"/>
+                </div>
+                <div class="col-md-4">
+                    <img src="img/logo.png" alt="" class="img-responsive center-img" width="100" />
+                </div>
+                <div class="col-md-4">
+                    <img src="img/pic 03.jpg" alt="" class="img-responsive hidden-xs"/>
+                </div>
+            </div>
+        </div>
         
         <script src="js/bootstrap.min.js"></script>
         <script src="js/bootstrap.js"></script>
