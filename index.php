@@ -26,8 +26,7 @@
                     <h2>এ.এফ.ডি সিস্টেমে স্বাগতম  </h2>
                 </div>
             </div>
-            <div class="row">
-                <div class="ofwhite">
+            <div class="row ofwhite">
                     <div class="col-md-6">
                         <h2>সর্বশেষ সংবাদ</h2>
                     </div>
@@ -78,7 +77,6 @@
                                     </form>
 
                                 </div>
-                            </div>
                     </div>
                 </div>
         
