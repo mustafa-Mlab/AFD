@@ -48,11 +48,24 @@
                     
                  ?>
             </div>
-            <div class="page2">
-                <h1>This Is home</h1>
+            <div class="page2 clearfix">
                 <?php require 'home.php'; ?>
             </div>
             
+        </div>
+        
+        <div class="footer clearfix ofwhite">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-1">
+                    @copyright MasterMind 
+                </div>
+                <div class="col-md-4">
+                    01724939534
+                </div>
+                <div class="col-md-4">
+                    
+                </div>
+            </div>
         </div>
         
         <script src="js/jquery.js"></script>

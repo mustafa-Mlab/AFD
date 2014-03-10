@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
 <html lang="en">
-    <head></head>
+    <head>
+        <link href="css/banner.css" rel="stylesheet" media="screen">
+    </head>
     <body>
         <div class="row">
             <div class="col-md-4">

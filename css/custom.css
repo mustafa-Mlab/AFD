@@ -21,3 +21,7 @@ body{
 .box{
     border: solid 2px red;
 }
+
+.ofwhite ul{
+    text-decoration: none;
+}
